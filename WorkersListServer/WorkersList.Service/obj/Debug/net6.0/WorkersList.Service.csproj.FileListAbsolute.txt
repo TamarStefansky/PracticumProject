@@ -1,0 +1,85 @@
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.deps.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.runtimeconfig.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.exe
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.exe
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.deps.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.runtimeconfig.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.pdb
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.pdb
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.AssemblyInfo.cs
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.csproj.CopyComplete
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\refint\WorkersList.Service.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.pdb
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.genruntimeconfig.cache
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\ref\WorkersList.Service.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.deps.json
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.runtimeconfig.json
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.exe
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.exe
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.deps.json
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.runtimeconfig.json
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.pdb
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\AutoMapper.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.pdb
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.csproj.AssemblyReference.cache
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.AssemblyInfoInputs.cache
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.AssemblyInfo.cs
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.csproj.CoreCompileInputs.cache
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.csproj.CopyComplete
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.dll
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\refint\WorkersList.Service.dll
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.pdb
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.genruntimeconfig.cache
+C:\C#\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\ref\WorkersList.Service.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\C#\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.deps.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.runtimeconfig.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.exe
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.exe
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.deps.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.runtimeconfig.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Service.pdb
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\AutoMapper.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\bin\Debug\net6.0\WorkersList.Core.pdb
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.csproj.AssemblyReference.cache
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.AssemblyInfoInputs.cache
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.AssemblyInfo.cs
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.csproj.CoreCompileInputs.cache
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.csproj.CopyComplete
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\refint\WorkersList.Service.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.pdb
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\WorkersList.Service.genruntimeconfig.cache
+C:\פרקטיקום סופי\WorkersListServer\WorkersList.Service\obj\Debug\net6.0\ref\WorkersList.Service.dll

@@ -1,0 +1,243 @@
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.exe
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.deps.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.runtimeconfig.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.pdb
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.AssemblyInfo.cs
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\scopedcss\bundle\WorkersListServer.styles.css
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.csproj.CopyComplete
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\refint\WorkersListServer.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.pdb
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.genruntimeconfig.cache
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\obj\Debug\net6.0\ref\WorkersListServer.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.deps.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.runtimeconfig.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.exe
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.deps.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.runtimeconfig.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.exe
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.deps.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.runtimeconfig.json
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.exe
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.dll
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.pdb
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.pdb
+C:\Users\User\Documents\Programming\פרקטיקום\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.pdb
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\appsettings.Development.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\appsettings.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.deps.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.runtimeconfig.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.exe
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.deps.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.runtimeconfig.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.exe
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.deps.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.runtimeconfig.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.exe
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.exe
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.deps.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.runtimeconfig.json
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.pdb
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\AutoMapper.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Humanizer.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.dll
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.pdb
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.pdb
+C:\C#\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.pdb
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.csproj.AssemblyReference.cache
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.AssemblyInfoInputs.cache
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.AssemblyInfo.cs
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.csproj.CoreCompileInputs.cache
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.MvcApplicationPartsAssemblyInfo.cs
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\scopedcss\bundle\WorkersListServer.styles.css
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.csproj.CopyComplete
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.dll
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\refint\WorkersListServer.dll
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.pdb
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.genruntimeconfig.cache
+C:\C#\WorkersListServer\WorkersListServer\obj\Debug\net6.0\ref\WorkersListServer.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\appsettings.Development.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\appsettings.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.deps.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.runtimeconfig.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.exe
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.deps.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.runtimeconfig.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.exe
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.deps.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.runtimeconfig.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.exe
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.exe
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.deps.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.runtimeconfig.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersListServer.pdb
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\AutoMapper.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Humanizer.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Core.pdb
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Data.pdb
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\bin\Debug\net6.0\WorkersList.Service.pdb
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.csproj.AssemblyReference.cache
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.AssemblyInfoInputs.cache
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.AssemblyInfo.cs
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.csproj.CoreCompileInputs.cache
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.MvcApplicationPartsAssemblyInfo.cs
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.MvcApplicationPartsAssemblyInfo.cache
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\scopedcss\bundle\WorkersListServer.styles.css
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.csproj.CopyComplete
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\refint\WorkersListServer.dll
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.pdb
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\WorkersListServer.genruntimeconfig.cache
+C:\פרקטיקום סופי\WorkersListServer\WorkersListServer\obj\Debug\net6.0\ref\WorkersListServer.dll
