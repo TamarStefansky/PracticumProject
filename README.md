@@ -26,10 +26,6 @@ The "Employee Management System" project allows users to manage and operate the 
 - **Server-Side:** Utilization of Net 6 for server-side development.
 - **Database:** Usage of SQL for data storage.
 
-## Additional Notes:
-- **Contributors:** Yossi Levi, Miri Cohen, Danny Ben Ezra.
-- **License:** MIT License.
-
 ## Remarks:
 - All fields in the form are mandatory and require appropriate validation.
 - The system treats employee deletion as a logical deletion, without physically removing them from the database.
